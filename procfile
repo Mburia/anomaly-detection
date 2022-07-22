@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run anomaly_pred_copy_dep.py
